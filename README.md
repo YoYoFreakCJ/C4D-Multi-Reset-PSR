@@ -8,8 +8,7 @@ This is a Cinema 4D python script which modifies any object so it can reset PSR 
 Tested with Cinema 4D R23.
 
 # Installation
-1. Download the script into your script folder at:
-%APPDATA%\MAXON\Maxon Cinema 4D *your release*\library\scripts
+1. Download the script **Multi-Reset_PSR.py** into your script folder at *%APPDATA%*\MAXON\Maxon Cinema 4D *your release*\library\scripts
 2. Restart your Cinema 4D if it was open.
 
 # How To Use
